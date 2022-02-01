@@ -1,0 +1,29 @@
+{
+  "run": [
+    {
+      "filePath": "/ZCA_FIORI_INBOXExtension2/webapp/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "allItems",
+          "paramValue": "true",
+          "paramActive": true
+        },
+        {
+          "paramName": "sap-client",
+          "paramValue": "200"
+        }
+      ],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "displayName": "My Inbox Extension",
+        "lastRunTimeStamp": 1641549408958
+      }
+    }
+  ]
+}
